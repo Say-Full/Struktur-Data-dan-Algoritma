@@ -4,9 +4,12 @@
 
 <ol>
   <li>Dasar Algoritma</li>
-  <li>Struktur Data</li>
+  <li>Struktur Data
+    <li>Linked List</li>
+  </li>
 <ol>
-  2.1. Linked List
+  
+  
     2.1.1. Singly Linked List
     2.1.2. Double Linked List
     2.1.3. Circular Linked List
