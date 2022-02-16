@@ -3,13 +3,9 @@
 ### SDA 2021 :
 
 <ol>
-  <li> Tes <li>
+  <li>Dasar Algoritma</li>
+  <li>Struktur Data</li>
 <ol>
-  
-1. Dasar Algoritma
-<br>
-2. Struktur Data
-<br>
   2.1. Linked List
     2.1.1. Singly Linked List
     2.1.2. Double Linked List
